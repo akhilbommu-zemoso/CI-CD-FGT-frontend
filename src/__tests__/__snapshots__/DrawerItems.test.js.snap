@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <a
+    data-testid="link"
+    href=""
+  >
+    <li
+      class="MuiListItem-root MuiListItem-gutters"
+    >
+      <hr
+        class="MuiDivider-root MuiDivider-vertical"
+      />
+      <div
+        class="MuiListItemIcon-root"
+      />
+      <div
+        class="MuiListItemText-root"
+      />
+    </li>
+    <hr
+      class="MuiDivider-root"
+    />
+  </a>
+</DocumentFragment>
+`;

@@ -1,0 +1,944 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="makeStyles-label-7"
+    >
+      SETTINGS
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+      >
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Daily remind adding Expenses Income
+            </div>
+          </div>
+          <div
+            style="margin-right: 100px;"
+          >
+            <div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+              >
+                <div
+                  class="makeStyles-top-119"
+                >
+                  <span
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 MuiIconButton-colorSecondary"
+                    style="color: rgb(4, 136, 255);"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <input
+                        class="PrivateSwitchBase-input-131"
+                        data-indeterminate="false"
+                        name="setting_settingType1"
+                        type="checkbox"
+                        value=""
+                      />
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Monthly/weekly summary
+            </div>
+          </div>
+          <div
+            style="margin-right: 100px;"
+          >
+            <div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+              >
+                <div
+                  class="makeStyles-top-119"
+                >
+                  <span
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 PrivateSwitchBase-checked-129 Mui-checked MuiIconButton-colorSecondary"
+                    style="color: rgb(4, 136, 255);"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <input
+                        checked=""
+                        class="PrivateSwitchBase-input-131"
+                        data-indeterminate="false"
+                        name="setting_settingType2"
+                        type="checkbox"
+                        value=""
+                      />
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Use calculator to enter amount
+            </div>
+          </div>
+          <div
+            style="margin-right: 100px;"
+          >
+            <div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+              >
+                <div
+                  class="makeStyles-top-119"
+                >
+                  <span
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 PrivateSwitchBase-checked-129 Mui-checked MuiIconButton-colorSecondary"
+                    style="color: rgb(4, 136, 255);"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <input
+                        checked=""
+                        class="PrivateSwitchBase-input-131"
+                        data-indeterminate="false"
+                        name="setting_settingType3"
+                        type="checkbox"
+                        value=""
+                      />
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Default time period
+            </div>
+          </div>
+          <div>
+            <div
+              class="MuiFormControl-root makeStyles-formControl-153"
+            >
+              <div>
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root makeStyles-selectEmpty-154 MuiInputBase-formControl"
+                  data-testid="select"
+                >
+                  <div
+                    aria-haspopup="listbox"
+                    aria-label="Without label"
+                    aria-labelledby="demo-simple-select-outlined-label demo-simple-select-outlined"
+                    class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+                    id="demo-simple-select-outlined"
+                    role="button"
+                    tabindex="0"
+                  >
+                    Daily
+                  </div>
+                  <input
+                    name="setting_settingType4"
+                    type="hidden"
+                    value="Daily"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M7 10l5 5 5-5z"
+                    />
+                  </svg>
+                  <fieldset
+                    aria-hidden="true"
+                    class="PrivateNotchedOutline-root-207 MuiOutlinedInput-notchedOutline"
+                    style="padding-left: 8px;"
+                  >
+                    <legend
+                      class="PrivateNotchedOutline-legend-208"
+                      style="width: 0.01px;"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Default date of month starting
+            </div>
+          </div>
+          <div>
+            <div
+              class="MuiFormControl-root makeStyles-formControl-211"
+            >
+              <div>
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root makeStyles-selectEmpty-212 MuiInputBase-formControl"
+                  data-testid="select"
+                >
+                  <div
+                    aria-haspopup="listbox"
+                    aria-label="Without label"
+                    aria-labelledby="demo-simple-select-outlined-label demo-simple-select-outlined"
+                    class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+                    id="demo-simple-select-outlined"
+                    role="button"
+                    tabindex="0"
+                  >
+                    1
+                  </div>
+                  <input
+                    name="setting_settingType5"
+                    type="hidden"
+                    value="1"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M7 10l5 5 5-5z"
+                    />
+                  </svg>
+                  <fieldset
+                    aria-hidden="true"
+                    class="PrivateNotchedOutline-root-207 MuiOutlinedInput-notchedOutline"
+                    style="padding-left: 8px;"
+                  >
+                    <legend
+                      class="PrivateNotchedOutline-legend-208"
+                      style="width: 0.01px;"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Remind me before the bill dues
+            </div>
+          </div>
+          <div>
+            <div
+              class="MuiFormControl-root makeStyles-formControl-214"
+            >
+              <div>
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root makeStyles-selectEmpty-215 MuiInputBase-formControl"
+                  data-testid="select"
+                >
+                  <div
+                    aria-haspopup="listbox"
+                    aria-label="Without label"
+                    aria-labelledby="demo-simple-select-outlined-label demo-simple-select-outlined"
+                    class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+                    id="demo-simple-select-outlined"
+                    role="button"
+                    tabindex="0"
+                  >
+                    1 Day
+                  </div>
+                  <input
+                    name="setting_settingType6"
+                    type="hidden"
+                    value="1 Day"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M7 10l5 5 5-5z"
+                    />
+                  </svg>
+                  <fieldset
+                    aria-hidden="true"
+                    class="PrivateNotchedOutline-root-207 MuiOutlinedInput-notchedOutline"
+                    style="padding-left: 8px;"
+                  >
+                    <legend
+                      class="PrivateNotchedOutline-legend-208"
+                      style="width: 0.01px;"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="makeStyles-margin-10"
+    >
+      <hr
+        class="MuiDivider-root"
+      />
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+      >
+        <div
+          class="makeStyles-label-7"
+        >
+          NOTIFICATIONS
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Notify me when expenses exceeds 70%
+            </div>
+          </div>
+          <div
+            style="margin-right: 100px;"
+          >
+            <div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+              >
+                <div
+                  class="makeStyles-top-119"
+                >
+                  <span
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 MuiIconButton-colorSecondary"
+                    style="color: rgb(4, 136, 255);"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <input
+                        class="PrivateSwitchBase-input-131"
+                        data-indeterminate="false"
+                        name="notification_notificationType1"
+                        type="checkbox"
+                        value=""
+                      />
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              When new bill is added
+            </div>
+          </div>
+          <div
+            style="margin-right: 100px;"
+          >
+            <div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+              >
+                <div
+                  class="makeStyles-top-119"
+                >
+                  <span
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 MuiIconButton-colorSecondary"
+                    style="color: rgb(4, 136, 255);"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <input
+                        class="PrivateSwitchBase-input-131"
+                        data-indeterminate="false"
+                        name="notification_notificationType2"
+                        type="checkbox"
+                        value=""
+                      />
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Amount debited/credited from bank account
+            </div>
+          </div>
+          <div
+            style="margin-right: 100px;"
+          >
+            <div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+              >
+                <div
+                  class="makeStyles-top-119"
+                >
+                  <span
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 MuiIconButton-colorSecondary"
+                    style="color: rgb(4, 136, 255);"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <input
+                        class="PrivateSwitchBase-input-131"
+                        data-indeterminate="false"
+                        name="notification_notificationType3"
+                        type="checkbox"
+                        value=""
+                      />
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Notify me when I am exceeding the goal period
+            </div>
+          </div>
+          <div
+            style="margin-right: 100px;"
+          >
+            <div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+              >
+                <div
+                  class="makeStyles-top-119"
+                >
+                  <span
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 PrivateSwitchBase-checked-129 Mui-checked MuiIconButton-colorSecondary"
+                    style="color: rgb(4, 136, 255);"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <input
+                        checked=""
+                        class="PrivateSwitchBase-input-131"
+                        data-indeterminate="false"
+                        name="notification_notificationType4"
+                        type="checkbox"
+                        value=""
+                      />
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Notify me when I reach my goal
+            </div>
+          </div>
+          <div
+            style="margin-right: 100px;"
+          >
+            <div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+              >
+                <div
+                  class="makeStyles-top-119"
+                >
+                  <span
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 PrivateSwitchBase-checked-129 Mui-checked MuiIconButton-colorSecondary"
+                    style="color: rgb(4, 136, 255);"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <input
+                        checked=""
+                        class="PrivateSwitchBase-input-131"
+                        data-indeterminate="false"
+                        name="notification_notificationType5"
+                        type="checkbox"
+                        value=""
+                      />
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Recurring expenses due 
+            </div>
+          </div>
+          <div
+            style="margin-right: 100px;"
+          >
+            <div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+              >
+                <div
+                  class="makeStyles-top-119"
+                >
+                  <span
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 PrivateSwitchBase-checked-129 Mui-checked MuiIconButton-colorSecondary"
+                    style="color: rgb(4, 136, 255);"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <input
+                        checked=""
+                        class="PrivateSwitchBase-input-131"
+                        data-indeterminate="false"
+                        name="notification_notificationType6"
+                        type="checkbox"
+                        value=""
+                      />
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="makeStyles-row-6"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <div
+              class="makeStyles-top-118"
+            >
+              Manage uncategorized 
+            </div>
+          </div>
+          <div
+            style="margin-right: 100px;"
+          >
+            <div>
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+              >
+                <div
+                  class="makeStyles-top-119"
+                >
+                  <span
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 PrivateSwitchBase-checked-129 Mui-checked MuiIconButton-colorSecondary"
+                    style="color: rgb(4, 136, 255);"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <input
+                        checked=""
+                        class="PrivateSwitchBase-input-131"
+                        data-indeterminate="false"
+                        name="notification_notificationType7"
+                        type="checkbox"
+                        value=""
+                      />
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          class="makeStyles-labelmessage-8"
+        >
+          MESSAGES
+        </div>
+        <div
+          class="makeStyles-align-224"
+        >
+          <div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+            >
+              <div
+                class="makeStyles-top-119"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 PrivateSwitchBase-checked-129 Mui-checked MuiIconButton-colorSecondary"
+                  style="color: rgb(4, 136, 255);"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <input
+                      checked=""
+                      class="PrivateSwitchBase-input-131"
+                      data-indeterminate="false"
+                      name="message_emailMessages"
+                      type="checkbox"
+                      value=""
+                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="makeStyles-top-225"
+          >
+            Email
+          </div>
+        </div>
+        <div
+          class="makeStyles-align-224"
+        >
+          <div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+            >
+              <div
+                class="makeStyles-top-119"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-128 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-root-120 PrivateSwitchBase-checked-129 Mui-checked MuiIconButton-colorSecondary"
+                  style="color: rgb(4, 136, 255);"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <input
+                      checked=""
+                      class="PrivateSwitchBase-input-131"
+                      data-indeterminate="false"
+                      name="message_textMessages"
+                      type="checkbox"
+                      value=""
+                    />
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            class="makeStyles-top-225"
+          >
+            Text message
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="makeStyles-alignRight-11"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root makeStyles-color-227 MuiButton-contained"
+        data-testid="button"
+        id="button"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Save
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

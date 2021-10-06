@@ -1,0 +1,329 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="makeStyles-padding-1"
+    >
+      <div
+        class="makeStyles-flex-3"
+      >
+        <div>
+          <div
+            class="makeStyles-alignField-6"
+          >
+            <div
+              class="MuiFormControl-root"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root makeStyles-labelSize-7 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+                data-shrink="true"
+                for="name"
+              >
+                User Name
+              </label>
+              <div
+                class="MuiInputBase-root WithStyles(ForwardRef(InputBase))-root-34 MuiInputBase-formControl"
+                data-testid="input"
+              >
+                <input
+                  aria-invalid="false"
+                  autocomplete="off"
+                  class="MuiInputBase-input WithStyles(ForwardRef(InputBase))-input-36"
+                  id="name"
+                  name="name"
+                  type="text"
+                  value="Fareed Sheik"
+                />
+              </div>
+            </div>
+            <div
+              class="makeStyles-error-55"
+            />
+          </div>
+          <div
+            class="makeStyles-alignField-6"
+          >
+            <div
+              class="MuiFormControl-root"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root makeStyles-labelSize-7 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+                data-shrink="true"
+                for="phone"
+              >
+                Phone Number
+              </label>
+              <div
+                class="MuiInputBase-root WithStyles(ForwardRef(InputBase))-root-34 MuiInputBase-formControl"
+                required=""
+              >
+                <input
+                  aria-invalid="false"
+                  autocomplete="off"
+                  class="MuiInputBase-input WithStyles(ForwardRef(InputBase))-input-36"
+                  id="phone"
+                  name="phone"
+                  pattern="[a-z]"
+                  required=""
+                  type="text"
+                  value=" + 91 - 7680024324"
+                />
+              </div>
+            </div>
+            <div>
+              <div
+                class="makeStyles-error-55"
+              />
+            </div>
+          </div>
+          <div>
+            <label
+              class="MuiFormLabel-root MuiInputLabel-root makeStyles-labelSize-59 MuiInputLabel-animated"
+              for="country"
+            >
+              Country
+            </label>
+            <div
+              class="MuiFormControl-root"
+            >
+              <div
+                aria-expanded="false"
+                class="MuiAutocomplete-root MuiAutocomplete-hasClearIcon MuiAutocomplete-hasPopupIcon"
+                name="country"
+                role="combobox"
+              >
+                <div
+                  class="MuiFormControl-root MuiTextField-root makeStyles-formtextField-58 MuiFormControl-fullWidth"
+                  style="color: red;"
+                >
+                  <div
+                    class="MuiInputBase-root MuiOutlinedInput-root MuiAutocomplete-inputRoot MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+                  >
+                    <input
+                      aria-autocomplete="list"
+                      aria-invalid="false"
+                      autocapitalize="none"
+                      autocomplete="new-password"
+                      class="MuiInputBase-input MuiOutlinedInput-input MuiAutocomplete-input MuiAutocomplete-inputFocused MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+                      id="country"
+                      spellcheck="false"
+                      style="font-size: 14px; padding: 3.5px 0px;"
+                      type="text"
+                      value="🇦🇪 United Arab Emirates"
+                    />
+                    <div
+                      class="MuiAutocomplete-endAdornment"
+                    >
+                      <button
+                        aria-label="Clear"
+                        class="MuiButtonBase-root MuiIconButton-root MuiAutocomplete-clearIndicator MuiAutocomplete-clearIndicatorDirty"
+                        tabindex="-1"
+                        title="Clear"
+                        type="button"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                            />
+                          </svg>
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </button>
+                      <button
+                        aria-label="Open"
+                        class="MuiButtonBase-root MuiIconButton-root MuiAutocomplete-popupIndicator"
+                        tabindex="-1"
+                        title="Open"
+                        type="button"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M7 10l5 5 5-5z"
+                            />
+                          </svg>
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <fieldset
+                      aria-hidden="true"
+                      class="PrivateNotchedOutline-root-121 MuiOutlinedInput-notchedOutline"
+                      style="padding-left: 8px;"
+                    >
+                      <legend
+                        class="PrivateNotchedOutline-legend-122"
+                        style="width: 0.01px;"
+                      >
+                        <span>
+                          ​
+                        </span>
+                      </legend>
+                    </fieldset>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <input
+            accept="image/*"
+            data-testid="avtarinput"
+            id="inputfile"
+            style="display: none;"
+            type="file"
+          />
+          <div
+            data-testid="uploadclick"
+          >
+            <div>
+              <img
+                class="makeStyles-circle-125"
+                src="data:null;base64,null"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <div
+      class="makeStyles-padding-1"
+      data-testid="profileemail"
+    >
+      <div
+        class="makeStyles-flex-140"
+      >
+        <div>
+          <span
+            class="makeStyles-passwordHeading-144"
+          >
+            Email
+          </span>
+          <br />
+          <div
+            class="makeStyles-textContent-143"
+          >
+            Your email address is
+            <span
+              class="makeStyles-mediumBold-141"
+            >
+               sheikfareed3819@gmail.com
+            </span>
+          </div>
+        </div>
+        <div>
+          <a
+            class="makeStyles-change-145"
+            href=""
+          >
+            Change
+          </a>
+        </div>
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <div
+      class="makeStyles-padding-1"
+      data-testid="profilepassword"
+    >
+      <div
+        class="makeStyles-flexpassword-146"
+      >
+        <div>
+          <span
+            class="makeStyles-passwordHeading-147"
+          >
+            Password
+          </span>
+        </div>
+        <div>
+          <a
+            class="makeStyles-change-148"
+            href=""
+          >
+            Change
+          </a>
+        </div>
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <div
+      class="makeStyles-padding-1"
+      data-testid="profiledeleteaccount"
+    >
+      <div>
+        <div>
+          <span
+            class="makeStyles-deleteHeading-150"
+          >
+            <a
+              class="makeStyles-linksclass-151"
+              data-testid="link"
+              href=""
+            >
+              Delete my account permanently
+            </a>
+          </span>
+        </div>
+        <div
+          class="makeStyles-textContent-149"
+          data-testid="content"
+        >
+          You will receive email to confirm your decision
+          <br />
+          If you delete the account data will be permanently erased. so, please turn on sync data to keep your files safe.
+        </div>
+      </div>
+    </div>
+    <div
+      class="makeStyles-alignRight-4"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root makeStyles-color-152 MuiButton-contained"
+        data-testid="button"
+        id="button"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Save
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <span
+        class="makeStyles-deleteHeading-2"
+      >
+        <a
+          class="makeStyles-linksclass-3"
+          data-testid="link"
+          href=""
+        >
+          Delete my account permanently
+        </a>
+      </span>
+    </div>
+    <div
+      class="makeStyles-textContent-1"
+      data-testid="content"
+    >
+      You will receive email to confirm your decision
+      <br />
+      If you delete the account data will be permanently erased. so, please turn on sync data to keep your files safe.
+    </div>
+  </div>
+</DocumentFragment>
+`;

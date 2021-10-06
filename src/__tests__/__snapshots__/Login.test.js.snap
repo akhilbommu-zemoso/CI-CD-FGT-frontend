@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-centered-2"
+  >
+    <div
+      class="MuiPaper-root MuiCard-root makeStyles-card-1 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <p
+          class="MuiTypography-root makeStyles-header-3 MuiTypography-body1"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-logo-4 MuiSvgIcon-fontSizeLarge"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6h-6z"
+            />
+          </svg>
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-header-3 MuiTypography-body1"
+        >
+          Please Click on Login
+        </p>
+        <p />
+        <p
+          class="MuiTypography-root makeStyles-content-5 MuiTypography-body1"
+        >
+          to continue
+          <span
+            class="makeStyles-blueText-6"
+          >
+             to ZE-Transaction
+          </span>
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-footer-7 MuiTypography-body1"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root makeStyles-color-78 MuiButton-contained"
+            data-testid="button"
+            id="button"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Login
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

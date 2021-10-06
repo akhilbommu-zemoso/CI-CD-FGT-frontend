@@ -1,0 +1,23 @@
+{
+    "message": {
+        "emailMessages": true,
+        "textMessages": true
+    },
+    "notification": {
+        "notificationType1": false,
+        "notificationType2": false,
+        "notificationType3": false,
+        "notificationType4": true,
+        "notificationType5": true,
+        "notificationType6": true,
+        "notificationType7": true
+    },
+    "setting": {
+        "settingType1": false,
+        "settingType2": true,
+        "settingType3": true,
+        "settingType4": "Daily",
+        "settingType5": "1",
+        "settingType6": "2 Days"
+    }
+}

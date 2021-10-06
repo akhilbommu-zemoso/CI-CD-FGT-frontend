@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <input
+      accept="image/*"
+      data-testid="avtarinput"
+      id="inputfile"
+      style="display: none;"
+      type="file"
+    />
+    <div
+      data-testid="uploadclick"
+    >
+      <div>
+        <img
+          class="makeStyles-circle-1"
+          src="data:null;base64,null"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

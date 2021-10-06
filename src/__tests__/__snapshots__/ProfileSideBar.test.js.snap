@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-root-1"
+  >
+    <div
+      class="makeStyles-label-2"
+    >
+      YOUR DETAILS
+    </div>
+    <nav
+      class="MuiList-root MuiList-padding"
+    >
+      <div>
+        <div>
+          <a
+            class="makeStyles-linksclass-8"
+            href=""
+          >
+            <div
+              aria-disabled="false"
+              class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button makeStyles-active-3"
+              data-testid="listitem"
+              role="button"
+              tabindex="0"
+            >
+              <div
+                class="MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiListItemText-primary makeStyles-font-10 MuiTypography-body1 MuiTypography-displayBlock"
+                >
+                  Profile settings
+                </span>
+              </div>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </div>
+          </a>
+        </div>
+      </div>
+      <div>
+        <div>
+          <a
+            class="makeStyles-linksclass-8"
+            href=""
+          >
+            <li
+              class="MuiListItem-root MuiListItem-gutters"
+              data-testid="listitem"
+            >
+              <div
+                class="MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiListItemText-primary makeStyles-font-10 MuiTypography-body1 MuiTypography-displayBlock"
+                >
+                  Manage transactions
+                </span>
+              </div>
+            </li>
+          </a>
+        </div>
+      </div>
+      <div>
+        <div>
+          <a
+            class="makeStyles-linksclass-8"
+            href=""
+          >
+            <li
+              class="MuiListItem-root MuiListItem-gutters"
+              data-testid="listitem"
+            >
+              <div
+                class="MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiListItemText-primary makeStyles-font-10 MuiTypography-body1 MuiTypography-displayBlock"
+                >
+                  Manage categories
+                </span>
+              </div>
+            </li>
+          </a>
+        </div>
+      </div>
+      <div>
+        <div>
+          <a
+            class="makeStyles-linksclass-8"
+            href=""
+          >
+            <li
+              class="MuiListItem-root MuiListItem-gutters"
+              data-testid="listitem"
+            >
+              <div
+                class="MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiListItemText-primary makeStyles-font-10 MuiTypography-body1 MuiTypography-displayBlock"
+                >
+                  Manage bank account
+                </span>
+              </div>
+            </li>
+          </a>
+        </div>
+      </div>
+      <div>
+        <div>
+          <a
+            class="makeStyles-linksclass-8"
+            href=""
+          >
+            <li
+              class="MuiListItem-root MuiListItem-gutters"
+              data-testid="listitem"
+            >
+              <div
+                class="MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiListItemText-primary makeStyles-font-10 MuiTypography-body1 MuiTypography-displayBlock"
+                >
+                  Support
+                </span>
+              </div>
+            </li>
+          </a>
+        </div>
+      </div>
+      <div>
+        <div>
+          <a
+            class="makeStyles-linksclass-8"
+            href=""
+          >
+            <li
+              class="MuiListItem-root MuiListItem-gutters"
+              data-testid="listitem"
+            >
+              <div
+                class="MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiListItemText-primary makeStyles-font-10 MuiTypography-body1 MuiTypography-displayBlock"
+                >
+                  Privacy
+                </span>
+              </div>
+            </li>
+          </a>
+        </div>
+      </div>
+    </nav>
+    <div>
+      <hr
+        class="MuiDivider-root"
+      />
+    </div>
+    <div>
+      <a
+        class="makeStyles-linksclass-70"
+        data-testid="link"
+        href=""
+      >
+        <div
+          class="makeStyles-margin-71"
+        >
+          <div
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiListItemText-primary makeStyles-font-72 MuiTypography-body1 MuiTypography-displayBlock"
+              >
+                Logout
+              </span>
+            </div>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

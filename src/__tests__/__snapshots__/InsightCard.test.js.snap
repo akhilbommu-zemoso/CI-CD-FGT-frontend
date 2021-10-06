@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-card-1 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardContent-root"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+      />
+      <div>
+        <div>
+          <p
+            class="MuiTypography-root makeStyles-header-2 MuiTypography-body1"
+          >
+            Insights
+          </p>
+          <div />
+        </div>
+        <hr
+          class="MuiDivider-root"
+          style="margin-top: 10px;"
+        />
+      </div>
+      <p />
+      <p
+        class="MuiTypography-root makeStyles-content-4 MuiTypography-body1"
+      >
+        <img
+          alt="Logo"
+          height="80px"
+          src="insight.png"
+        />
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-footer-3 MuiTypography-body1"
+      >
+        No insights are here
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

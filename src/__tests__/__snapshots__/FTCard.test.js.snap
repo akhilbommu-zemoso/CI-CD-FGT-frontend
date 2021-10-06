@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardContent-root"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+      />
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+      />
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`should take a snapshot 2`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+      />
+      <div />
+    </div>
+    <hr
+      class="MuiDivider-root"
+      style="margin-top: 10px;"
+    />
+  </div>
+</DocumentFragment>
+`;
