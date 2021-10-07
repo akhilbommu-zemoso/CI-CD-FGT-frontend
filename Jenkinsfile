@@ -5,7 +5,7 @@ podTemplate(containers: [
 	volumes: [hostPathVolume(mountPath: '/var/run/docker.sock', hostPath: '/var/run/docker.sock')]) {
 	node(POD_LABEL){
 		environment {
-			// VERSION = "${env.GIT_COMMIT}"
+			
  			DOCKERHUB_CREDENTIALS= credentials('akhil-dockerhub')
  		}
 		stage('Build Docker'){
