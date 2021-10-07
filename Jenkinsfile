@@ -21,6 +21,7 @@ podTemplate(containers: [
 					sh 'docker login -u $username -p $password'
 					sh 'docker push akhilzemoso/fe_fgt_jenkins:${BUILD_NUMBER}'
 					sh 'docker push akhilzemoso/fe_fgt_jenkins:latest'
+					sh 'docker ps'
 				}	           
 			}
 		}
